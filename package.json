@@ -12,7 +12,8 @@
     "hubot-seen": "^0.2.3",
     "hubot-slack": "^3.3.0",
     "hubot-thank-you": "0.0.3",
-    "hubot-google-images": "^0.2.1"
+    "hubot-google-images": "^0.2.1",
+    "hubot-pugme":"^0.1.0"
   },
   "engines": {
     "node": "4.2.x"
